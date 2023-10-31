@@ -48,4 +48,4 @@ I love each steps and processes that the data has to go through to generate a mo
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white"/>
 </p>
 
-## Thank you for visiting my profile.🙏
+
