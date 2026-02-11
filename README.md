@@ -4,10 +4,14 @@ Hey there, I'm <a href="https://github.com/Savn55" target="_blank" rel="noreferr
 </h3>
 
 <h2 align="center">
-I'm a Data Science enthusiast 📈, Web Developer 💻, and Lifelong Learner 📚
+I am a Software Engineer, Cloud ☁️and Data Enthusiast 💻, and a Lifelong Learner 📚
 </h2> 
 
-I love each steps and processes that the data has to go through to generate a model to serve endpoints like websites, webapps, that can solve problems. Integration with clouds has made this processes much more easy and fast because of which I have found myself a fan of cloud ☁️ platforms. Beside all, I love having fun in learning new things, and ofcourse, not only techs. 
+I have over 4 years 🗓️ of experience as a Python developer and Application Support Analyst 🏦in Banking Industry where I leveraged my skills in building automation scripts, develop desktop 💻applications with MS ACCESS, .Net, and SQL SERVER. I also worked with mainframe to 🌳⛰️ schedule batch jobs, managing SSH Keys, monitoring the jobs and troubleshoot the abends. \
+\
+Recently, my organization had a large scale Cloud Migration effor where 🐦 they migrated most of its application and database to GCP. I actively provided support on creating multi-tier 🏗️architecture, provisioning and configuring Web, Application, and SQL Server instances as part of the migration effort. This enouraged me to 🕳️ dive more deep into Cloud and get 🌥️ cloud certified. \
+\
+Beside all, I love having fun in learning 👓new things, and ofcourse, not only techs. 🎸🥾🏃‍♂️
 
 ### 🤝 I would love to connect with you:
 
@@ -19,16 +23,20 @@ I love each steps and processes that the data has to go through to generate a mo
 
 ## 🔭 I'm currently working on
 
-- My old projects
-- Sentiment Analysis Project (new one)
-- Real Estate WebApp using Django (need final touches)
-- Data analysis skills
+- Building Event Driven solution in AWS using S3, Lambda, and DynamoDB.
+- Building solution using IaC with AI integration. 
 
 ## 🌱 I'm currently learning
 
-- Machine Learning Algorithms and statistics
-- Microsoft Azure Data Scientist Associate test preparation (nearly done)
-- Django knowledge  
+- GEN AI
+- AWS ML models
+
+
+<p align="left">
+  <a href="https://www.credly.com/badges/83fced00-30de-4a54-a70c-cbc759858d55/public_url"><img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120" alt="Badge 1"></a>
+  <a href="https://www.credly.com/badges/69f97edc-42a2-43ce-8d3d-86df7b8cc7d7/public_url"><img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120" alt="Badge 2"></a>
+  <a href="https://www.credly.com/badges/23daa9a0-1344-48f5-b59e-eea1e2e8e0d3/public_url"><img src="https://images.credly.com/size/220x220/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png" width="120" alt="Badge 3"></a>
+</p>
 
 ## 💼 Technical Skills
 <p><img src="https://img.shields.io/badge/Languages and Tools-informational?style=for-the-badge"/></p>
